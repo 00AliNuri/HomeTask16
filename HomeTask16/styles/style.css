@@ -1,0 +1,30 @@
+.container {
+  padding-top: 80px;
+}
+.card{
+  border: 2px solid gray;
+}
+img {
+  margin-left: 35px;
+  width: 250px;
+  height: 250px;
+}
+#cart-btn {
+  background-color: blue;
+  border: none;
+  color: white;
+}
+#clear-btn {
+  background-color: red;
+  border: none;
+  color: white;
+}
+#add-btn {
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+}
+button{
+  cursor: pointer;
+  color: white;
+}
